@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    /* background: var(--color-bg); */
+    background: linear-gradient(293.58deg, #4F1C8E -6.94%, #0E0519 75.2%);
+}
+
+.students__container {
+    background: linear-gradient(180deg, #4A1A85 0%, #11061E 100%);
+    background-image: url('../../assets/grid.png');
+    /* background-color: red; */
+    height: 100vh;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
+
+
+
+
+.gradient__bg {
+    background-image: url('../../assets/bg-pattern.png');
+}
+
+.gradient__text {
+    background: var(--gradient-text);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.section__padding {
+    padding: 4rem 6rem;
+}
+
+.section__margin {
+    margin: 4rem 6rem;
+}
+
+.scale-up-center {
+    -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+@-webkit-keyframes scale-up-center {
+    0% {
+        -webkit-transform: scale(0.5);
+        transform: scale(0.5);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@keyframes scale-up-center {
+    0% {
+        -webkit-transform: scale(0.5);
+        transform: scale(0.5);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .section__padding {
+        padding: 4rem;
+    }
+
+    .section__margin {
+        margin: 4rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .section__padding {
+        padding: 4rem 2rem;
+    }
+
+    .section__margin {
+        margin: 4rem 2rem;
+    }
+}

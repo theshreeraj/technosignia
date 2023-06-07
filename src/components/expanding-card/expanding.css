@@ -1,0 +1,83 @@
+/* Setting container to flex and width to 80% of view port */
+
+.main-expandingcontainer {
+    background-color: #171421;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.expaniding_container {
+    display: flex;
+    width: 80%;
+
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+/*Adding background image to each section*/
+.one {
+    background: url(../../assets/cardone.png);
+}
+
+.two {
+    background: url(../../assets//cardtwo.png);
+}
+
+.three {
+    background: url(../../assets/cardthree.png);
+}
+
+.four {
+    background: url(../../assets/cardfour.png);
+}
+
+/* Background properties and transition effect to section */
+.container_section {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60vh;
+    cursor: pointer;
+    flex: 0.5;
+    margin: 8px;
+    position: relative;
+    transition: all 0.7s ease;
+
+
+
+    /* background: linear-gradient(76.17deg, #201A33 0%, #482A8A 100%); */
+    border-radius: 8px;
+}
+
+/* .main-load {
+    flex: 3;
+
+
+} */
+
+/* section with active class will grow flex to 3 times */
+/* .section:hover {
+    flex: 3 !important;
+} */
+
+
+/* a:hover {
+    background-color: yellow;
+} */
+
+
+
+/* section with active class will grow flex to 3 times  */
+.container_section .active {
+    flex: 2;
+}
+
+.container_section:hover {
+    flex: 2;
+}
+
+/* on hover define diffrent background 
+and without hover define different background */

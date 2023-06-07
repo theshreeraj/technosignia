@@ -1,0 +1,50 @@
+.courses_container {
+    height: 100vh;
+    left: 0px;
+    top: 982px;
+
+    background: #11061E;
+}
+
+
+
+
+.mainsection {
+    width: 100vw;
+    height: 100vh;
+    background-color: #11061E;
+}
+
+/* .section {
+    min-height: 80vh;
+    width: 60vw;
+    margin: 1rem auto;
+    position: relative;
+} */
+
+.coursecontainer {
+    width: 100%;
+    margin: 2rem auto;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* .item{
+    width: 30vw;
+} */
+
+.image-container {
+    width: 250px;
+    margin: 3rem auto;
+
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}

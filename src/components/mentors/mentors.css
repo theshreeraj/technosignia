@@ -1,0 +1,39 @@
+.mentors_section {
+    min-height: 100vh;
+    width: 100wh;
+    background-color: white;
+    margin: 1rem auto;
+    position: relative;
+}
+
+
+/* .mentors_title h1,
+p {
+    margin-top: 3rem;
+    margin-left: 3rem;
+} */
+
+
+
+.instructor-container {
+    width: 100%;
+    margin: 2rem auto;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image_container {
+    width: 300px;
+    margin: 3rem auto;
+
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
