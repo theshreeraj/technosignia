@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/technosignia/static/css/main.835b0803.css",
+    "main.js": "/technosignia/static/js/main.417b8288.js",
+    "static/media/bg-pattern.png": "/technosignia/static/media/bg-pattern.3a9675746aed4c0340fa.png",
+    "static/media/cardthree.png": "/technosignia/static/media/cardthree.226a862f82a3780144de.png",
+    "static/media/cardone.png": "/technosignia/static/media/cardone.92df23f0d43b02352057.png",
+    "static/media/cardtwo.png": "/technosignia/static/media/cardtwo.b82303eff9195c2b3929.png",
+    "static/media/cardfour.png": "/technosignia/static/media/cardfour.71fddeb1d946fda09ddc.png",
+    "static/media/hero-banner.png": "/technosignia/static/media/hero-banner.b2e9024d4b76318c0e75.png",
+    "static/media/mentor3.png": "/technosignia/static/media/mentor3.bf64206e63a5f75ee842.png",
+    "static/media/mentor1.png": "/technosignia/static/media/mentor1.7bc239a19db6c5a1d532.png",
+    "static/media/testing.png": "/technosignia/static/media/testing.6a3fd2fef902621bcc42.png",
+    "static/media/development.png": "/technosignia/static/media/development.d67310c2471a8496bd58.png",
+    "static/media/mentor2.png": "/technosignia/static/media/mentor2.b45f5e04d3d769a6f0b4.png",
+    "static/media/student1.png": "/technosignia/static/media/student1.495d21be2cb7189f14ee.png",
+    "static/media/student4.png": "/technosignia/static/media/student4.2fc963960f160c108a0c.png",
+    "static/media/student3.png": "/technosignia/static/media/student3.b610d3dfe4f5f52179e9.png",
+    "static/media/test-detailbg.png": "/technosignia/static/media/test-detailbg.38bab17a2d5e9008f430.png",
+    "static/media/student6.png": "/technosignia/static/media/student6.8b2d1f9f42b408085148.png",
+    "static/media/student13.png": "/technosignia/static/media/student13.7c8eb1729d7c6cc9367f.png",
+    "static/media/student2.png": "/technosignia/static/media/student2.6469c3da27565644fba8.png",
+    "static/media/student7.png": "/technosignia/static/media/student7.1c6275f5f54f5767dd06.png",
+    "static/media/student9.png": "/technosignia/static/media/student9.87c41a65731b2f08af1a.png",
+    "static/media/student12.png": "/technosignia/static/media/student12.c2c7106a072f54eab93b.png",
+    "static/media/student5.png": "/technosignia/static/media/student5.1349f62582e3b8fb26bb.png",
+    "static/media/student11.png": "/technosignia/static/media/student11.d4de67993363fa56ae73.png",
+    "static/media/student10.png": "/technosignia/static/media/student10.534c6768788e27dccdd4.png",
+    "static/media/student8.png": "/technosignia/static/media/student8.439acca1ed1fdba217ad.png",
+    "static/media/student14.png": "/technosignia/static/media/student14.29cb5c43599b7f17eb02.png",
+    "static/media/people.png": "/technosignia/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/grid.png": "/technosignia/static/media/grid.2dd6c586494a3d202727.png",
+    "index.html": "/technosignia/index.html",
+    "main.835b0803.css.map": "/technosignia/static/css/main.835b0803.css.map",
+    "main.417b8288.js.map": "/technosignia/static/js/main.417b8288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835b0803.css",
+    "static/js/main.417b8288.js"
+  ]
+}
